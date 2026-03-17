@@ -9,4 +9,4 @@ npm install
 npm run dev
 ```
 
-This site was deployed at [GitHub Pages](https://pramot5525.github.io/money-compound/).
+This site was deployed at [GitHub Pages: https://pramot5525.github.io/money-compound](https://pramot5525.github.io/money-compound/).
